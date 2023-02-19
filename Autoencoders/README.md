@@ -4,7 +4,7 @@ Autoencoder is an unsupervised artificial neural network that learns how to effi
 
 ---
 
-## Project: Modified Mnist
+## Project: Mnist to 90deg
 
 ### Intorduction: 
 The puspose of this project is to create a autencoder that takes input images of handwritten images and reconstuct 90&deg; version of the images. 
